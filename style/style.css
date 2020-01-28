@@ -1,0 +1,12 @@
+.box{
+  background-color: rgba(180, 82, 1, 0.795);
+  min-height: 100px;
+  margin-bottom: 20px;
+}
+h4 , h1{
+  text-align: center;
+  text-transform: capitalize;
+  padding-top: 20px;
+  color: rgb(11, 126, 109);
+  
+}

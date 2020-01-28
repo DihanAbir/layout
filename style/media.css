@@ -1,0 +1,62 @@
+@media (max-width: 575.98px) {
+  .box{
+    background-color: rgba(255, 150, 100, 0.795);
+  }
+  h4 , h1{
+    
+    color: rgb(11, 17, 126);
+    
+  }
+  }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .box{
+    background-color: rgba(35, 34, 34, 0.795);
+  
+  }
+  h4 , h1{
+    
+    color: rgb(18, 195, 169);
+    
+  }
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .box{
+    background-color: rgba(180, 82, 1, 0.795);
+    
+  }
+  h4 , h1{
+    
+    color: rgb(28, 11, 126);
+    
+  }
+  }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+  .box{
+    background-color: rgba(246, 111, 0, 0.795);
+    
+  }
+  h4 , h1{
+   
+    color: rgb(0, 156, 133);
+    
+  }
+}
+
+
+@media (min-width: 1200px) {
+  .box{
+    background-color: rgba(255, 0, 0, 0.795);
+  
+  }
+  h4 , h1{
+    
+    color: rgb(0, 255, 0);
+    
+  }
+ }
